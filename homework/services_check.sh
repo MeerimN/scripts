@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create a timestamped log file
-timestamp=$(date +"%Y-%m-%d_%H-%M-%S")
+timestamp=$(date)
 log_file="service_status_$timestamp.log"
 
 # Define the list of services
