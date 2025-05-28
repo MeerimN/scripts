@@ -1,11 +1,9 @@
 #!/bin/bash
 
-# Define DB_NAME, USER, and BACKUP_DIR
-DB_NAME="your_database_name"
-USER="your_mysql_user"
-BACKUP_DIR="/path/to/backup"
+DB_NAME="Meerim"
+USER="meerimN"
+BACKUP_DIR="/homework"
 
-# GET CURRENT DATE
 DATE=$(date)
 
 # Run mysqldump and output to BACKUP_DIR/dbname-YYYYMMDD.sql
