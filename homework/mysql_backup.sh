@@ -2,7 +2,7 @@
 
 DB_NAME="Meerim"
 USER="meerimN"
-BACKUP_DIR="/homework"
+BACKUP_DIR="/scripts/homework"
 
 DATE=$(date)
 
